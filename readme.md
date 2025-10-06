@@ -7,4 +7,4 @@ Permite listar todos los pacientes o buscar por nombre, mostrando los resultados
 - Mostrar todos los pacientes registrados.
 - Buscar paciente por nombre (coincidencia exacta).
 - Interfaz limpia y responsive gracias a Bootstrap.
-- Código en JavaScript ES5, sin dependencias adicionales.
+- Código en JavaScript ES5.
