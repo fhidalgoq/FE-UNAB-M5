@@ -1,0 +1,16 @@
+/* Estilos del proyecto API Feriados */
+body {
+    scroll-behavior: smooth;
+}
+
+#log {
+    background: #0f172a;
+    color: #e5e7eb;
+    border-radius: .5rem;
+    padding: .75rem;
+    min-height: 120px;
+}
+
+#tabla-feriados tbody tr.hide {
+    display: none;
+}
