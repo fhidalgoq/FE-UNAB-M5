@@ -1,0 +1,17 @@
+/* Estilos del proyecto ABP4 */
+body {
+    scroll-behavior: smooth;
+}
+
+#app-log {
+    background: #0f172a;
+    color: #e5e7eb;
+    border-radius: .75rem;
+    padding: 1rem;
+    min-height: 140px;
+}
+
+.card .list-group {
+    max-height: 160px;
+    overflow: auto;
+}
